@@ -1,0 +1,137 @@
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #fff;
+  color: #434455;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+}
+button {
+  cursor: pointer;
+}
+header {
+  background-color: #fff;
+}
+.header-address {
+  font-style: normal;
+}
+.logo {
+  color: #4d5ae5;
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 1.17;
+}
+.logo-top {
+  color: #2e2f42;
+}
+.header-link {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  text-decoration: none;
+}
+.nav-list__item:first-child .header-link:hover,
+.nav-list__item:first-child .header-link:focus {
+  color: #404bbf;
+}
+.business-section {
+  background-color: #2e2f42;
+}
+.business {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 60px;
+  letter-spacing: 1.12px;
+  line-height: 1.07;
+}
+.service {
+  background-color: #4d5ae5;
+  color: #fff;
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+}
+.service:hover,
+.service:focus {
+  background-color: #404bbf;
+}
+.studio-section {
+  background-color: #ffffff;
+  color: #2e2f42;
+}
+.team-section {
+  background-color: #f4f4fd;
+}
+.team-item {
+  background-color: #ffffff;
+}
+.portfolio-section {
+  background-color: #ffffff;
+}
+.section-title {
+  color: #2e2f42;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+  margin-bottom: 70px;
+}
+.sections {
+  border: 1px solid #e7e9fc;
+  list-style: none;
+}
+.title {
+  color: #2e2f42;
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
+.title:hover {
+  background-color: #fff;
+  border: 1px solid #e7e9fc;
+}
+.subtitle {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+  text-decoration: none;
+  list-style: none;
+}
+.subtitle:hover,
+.subtitle:focus {
+  color: #404bbf;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer-text {
+  color: #f4f4fd;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.32px;
+}
+.logo-bottom {
+  color: #f4f4fd;
+}
