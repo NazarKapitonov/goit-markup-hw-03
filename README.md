@@ -1,1 +1,1 @@
-Homework https://nazarkapitonov.github.io/goit-markup-hw-03/
+Homework goit-markup-hw-03/
