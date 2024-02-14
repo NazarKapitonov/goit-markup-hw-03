@@ -3,6 +3,7 @@
 *::after {
   box-sizing: border-box;
 }
+
 h1,
 h2,
 h3,
@@ -13,12 +14,14 @@ p {
   margin-top: 0;
   margin-bottom: 0;
 }
+
 ul,
 ol {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
 }
+
 body {
   font-family: Roboto, sans-serif;
   background-color: #fff;
@@ -27,22 +30,27 @@ body {
   font-size: 16px;
   font-weight: 500;
 }
+
 img {
   display: block;
   max-width: 100%;
   object-fit: cover;
   height: auto;
 }
+
 a {
   text-decoration: none;
 }
+
 button {
   cursor: pointer;
 }
+
 header {
   display: flex;
   border-bottom: 1px solid #e7e9fc;
 }
+
 .container {
   margin: 0 auto;
   max-width: 1440px;
@@ -50,30 +58,30 @@ header {
   flex-shrink: 0;
   padding: 0 15px;
 }
+
 .container-flex {
   display: flex;
   align-items: center;
 }
+
 .navigation {
   display: flex;
   align-items: center;
 }
-.header-address {
-  font-style: normal;
-}
+
 .logo {
   color: #4d5ae5;
   font-family: Raleway, sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   font-style: normal;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
-  line-height: 1.17;
   margin-right: 76px;
 }
+
 .logo-top {
   color: #2e2f42;
   width: 71px;
