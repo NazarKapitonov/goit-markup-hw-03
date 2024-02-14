@@ -56,7 +56,7 @@ header {
   max-width: 1440px;
   width: 1158px;
   flex-shrink: 0;
-  padding: 0 15px;
+  padding: 32px 0;
 }
 
 .container-flex {
