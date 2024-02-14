@@ -56,7 +56,7 @@ header {
   max-width: 1440px;
   width: 1158px;
   flex-shrink: 0;
-  padding: 32px 0;
+  padding: 0 15px;
 }
 
 .container-flex {
@@ -241,7 +241,7 @@ header {
   border-bottom-left-radius: 4px;
 }
 .team-member {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 .team-leaders {
   color: #2e2f42;
