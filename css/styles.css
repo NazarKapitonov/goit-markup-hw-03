@@ -109,7 +109,7 @@ header {
 .header-adress {
   font-style: normal;
   display: flex;
-  margin-left: 332px;
+  margin-left: auto;
 }
 .address-items {
   display: flex;
@@ -205,11 +205,15 @@ header {
   margin-bottom: 8px;
 }
 .subtitle {
-  max-width: 264px;
+  display: flex;
   color: #434455;
   font-weight: 400;
+  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  text-decoration: none;
+  gap: 40px;
+  list-style-type: none;
 }
 .team-section {
   background-color: #f4f4fd;
@@ -316,6 +320,8 @@ header {
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
+  color: #4d5ae5;
+  text-transform: uppercase;
 }
 .footer-text {
   max-width: 264px;
